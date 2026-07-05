@@ -1,0 +1,12 @@
+Flask==3.1.2
+Flask-Cors==6.0.2
+gunicorn==23.0.0
+pandas==2.3.3
+numpy==2.4.0
+scikit-learn==1.8.0
+lightgbm==4.6.0
+xgboost==3.1.2
+python-dotenv==1.2.1
+google-genai==1.56.0
+pydantic==2.12.5
+Werkzeug==3.1.4
